@@ -1,10 +1,5 @@
 fastapi
-uvicorn[standard]
+uvicorn
 jinja2
-python-jose[cryptography]
+python-jose
 passlib[bcrypt]
-python-multipart
-libvirt-python
-sqlalchemy
-databases[sqlite]
-itsdangerous
